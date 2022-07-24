@@ -1,6 +1,6 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks Challange
+# Summary - Frontend Mentor - Huddle landing page with alternating feature blocks Challange
 
-I built a project following the Fronted Mentor Challenge. I used HTLM and CSS. 
+I built a landing page following the Fronted Mentor Challenge. I used HTLM and CSS. 
 
 Here is the link to the Fronted Mentor page: https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100. You can check out the intended design.
 
